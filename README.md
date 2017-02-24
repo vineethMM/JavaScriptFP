@@ -50,4 +50,10 @@ This can be helpful if you want to try out JavaScript interactively.
 
 $npm install node-repl -g
 
+Online tutorials
+================
+
+There are a lot of online tutorials available for Java Script, am a great fan of online video tutorials and I find the following very useful.
+
+https://www.youtube.com/watch?v=qaSHb7NgCk4&index=4&list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K#t=9.146745
 
